@@ -6,7 +6,7 @@ Repository supporting Wen et al. 2023: ["Quantifying fire-specific smoke exposur
 * `src/` contains the `main.R` file, which has code to replicate figures.
     * Ensure that the working directory is set correctly (line 21) in `main.R`
     * Section headers are used to distinguish different figure plotting code.
-* Data can be downloaded from [Dropbox](https://www.dropbox.com/sh/z7tw7q2tnlg6dlk/AADIuRS85ryQlz9xlvEH1kJ5a?dl=0). 
+* Data can be downloaded from [Dropbox](https://www.dropbox.com/sh/kn36qx9ycv9rwq6/AABAW9xpHN9LFDTZygO0GGhda?dl=0). 
     * The `data/` folder should be in the same root folder as `src/` and `output/`.
 * Generated figures will be located in the `output/` folder.
     * The `output/` folder and `fig1/` - `fig5/` and `figsupp/` subfolders will need to be created for the `main.R` script to save figures in the default locations.
